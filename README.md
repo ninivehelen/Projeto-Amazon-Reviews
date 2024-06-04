@@ -30,3 +30,7 @@ Já análise que mostra informações sobre os livros, titulo do livro, preço, 
 ![Python](https://img.shields.io/badge/Python-blue.svg)
 
 
+
+## Aprendizados
+Ainda em desenvolvimento.
+

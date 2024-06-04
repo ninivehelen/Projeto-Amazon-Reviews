@@ -17,8 +17,7 @@ Este projeto visa analisar as reviews de clientes que compraram livros no site d
 
 
 ### Detalhes do Desenvolvimento do Projeto
-O projeto utiliza dois dataset, um sobre reviews dos clientes que compraram livros na amazon e outro sobre detalhes dos livros dessas reviews.  
-Os dataset são do ano de 2023.  
+O projeto utiliza dois dataset, um sobre reviews dos clientes que compraram livros na amazon e outro sobre detalhes dos livros dessas reviews. Os dataset são do ano de 2023.  
 
 A análise de sentimento das reviews é sobre os comentários que os clientes deixaram sobre o livro comprado, o objetivo da análise é mostrar se os comentaris foram positivos ou negativos e quais palavras foram mais utilizadas sobre os livros. 
 

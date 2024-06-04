@@ -7,7 +7,7 @@ Este projeto visa analisar as reviews de clientes que compraram livros no site d
 ### Referência
 
  - [Dataset das Reviews ](https://amazon-reviews-2023.github.io/)
- - [Biblioteca de Processamento de Linguagem Natural](https://www.nltk.org/e)
+ - [Biblioteca de Processamento de Linguagem Natural](https://www.nltk.org/)
 
 
 

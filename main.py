@@ -19,6 +19,6 @@ if __name__ == "__main__":
     abrir_arquivo_books(books_csv)
     meta_csv = pd.read_csv("Meta2.csv", sep=';')
     abrir_arquivo_meta(meta_csv)
-    print("Arquivo salvo")
+    print("Arquivo salvo") 
    
     
